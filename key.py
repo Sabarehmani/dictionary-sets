@@ -7,4 +7,4 @@ info = {
     "is_adult" : "true",
     "marks" : 34.5,
 }
-print =(info)
+print(info)
