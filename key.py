@@ -8,6 +8,7 @@ info = {
     "is_adult" : "true",
     "marks" : 34.5,
 }
+info["name"] = "saba"
 print(info["subjects"])
 print(info["age"])
 print(type(info))
