@@ -1,5 +1,5 @@
 student = {
-    "name" : "saba rehmani"
+    "name" : "saba rehmani",
     "subjects" : {
         "phy" : 65,
         "chem" : 23,
@@ -8,4 +8,4 @@ student = {
     }
 }
 
-print(student)
+print(student["subjects"])
