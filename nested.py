@@ -8,4 +8,4 @@ student = {
     }
 }
 
-print(student["subjects"])
+print(student["subjects"]["chem"])
