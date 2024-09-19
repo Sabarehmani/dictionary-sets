@@ -10,4 +10,4 @@ subjects = {
     "python", "java", "c++", "c"
 }
 
-print(subjects)
+print(len(subjects))
