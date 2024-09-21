@@ -24,3 +24,8 @@ x = int(input("enter chem : "))
 marks.update({"chem" : x})
 
 print(marks)
+
+
+
+value = {6, 6.0}
+print(value)
