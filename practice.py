@@ -29,3 +29,13 @@ print(marks)
 
 value = {6, 6.0}
 print(value)
+
+value = {8, "8.0"}
+print(value)
+
+values = {
+    ("float", 7.0),
+    ("int", 9)
+}
+
+print(values)
